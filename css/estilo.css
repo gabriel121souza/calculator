@@ -1,0 +1,35 @@
+
+.bg{
+  background:linear-gradient(to right, blue, purple);
+height: 645px;
+}
+
+*{
+  margin: 2px;
+  padding: 1px;
+}
+.button{
+  width: 70px;
+  height: 75px;
+  font-size:4;
+  cursor: pointer;
+  background: #607d8b;
+  border: none;
+  color: white;
+}
+.textview{
+    width: 290px;
+    font-size: 35px;
+    padding: 2px;
+    margin-bottom: -20px;
+    color: #607d8b;
+    border: none;
+
+
+}
+.main{
+  position: absolute;
+  top: 20%;
+  left: 40%;
+
+}
